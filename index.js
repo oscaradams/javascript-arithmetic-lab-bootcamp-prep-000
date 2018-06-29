@@ -51,7 +51,7 @@ function makeInt(n){
   
 }
 
-function makeInt(n){
+function perserveDecimal(n){
   return parseFloat(n)
   
   
